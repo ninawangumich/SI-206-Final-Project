@@ -1,0 +1,43 @@
+Music Industry Data Analysis
+==========================
+
+1. Artist Statistics
+-----------------
+Average listeners per artist: 3,580,230
+Total songs analyzed: 500
+
+Top 5 Artists by Listeners:
+         name  listeners  total_songs  total_song_plays
+0    Coldplay    7754977            5         117255346
+1     Rihanna    7040666            5          67028098
+2  Kanye West    6896257            5          99013546
+3   Radiohead    6865353            5         142700521
+4      Eminem    6796983            5          60393094
+
+2. Music Trend Analysis
+--------------------
+Trend keyword performance:
+    keyword  avg_interest                        peak_interest  data_points
+0   spotify      0.405941     b'[\x00\x00\x00\x00\x00\x00\x00'          101
+1  festival      0.178218     b':\x00\x00\x00\x00\x00\x00\x00'          101
+2   concert      0.000000     b'#\x00\x00\x00\x00\x00\x00\x00'          101
+3     music      0.000000     b'd\x00\x00\x00\x00\x00\x00\x00'          101
+4     vinyl      0.000000  b'\x0f\x00\x00\x00\x00\x00\x00\x00'          101
+
+3. Venue Analysis by City
+----------------------
+Total venues analyzed: 100
+Average venue capacity: 11,828
+
+City Statistics:
+      location  venue_count  avg_capacity  avg_events  total_potential_attendance
+0     New York           10       14278.7        57.7                     8755869
+1       Boston           10       11873.7        64.7                     7987757
+2       Denver           10       13655.2        58.2                     7581346
+3      Chicago           10       12692.9        52.9                     6717899
+4  Los Angeles           10       12364.2        57.2                     6514480
+5     Portland           10       11502.7        53.7                     6339095
+6      Seattle           10       10379.0        55.0                     5949846
+7       Austin           10       10915.6        48.6                     5346306
+8        Miami           10        9275.5        52.5                     4915087
+9    Nashville           10       11338.4        48.4                     4714052
